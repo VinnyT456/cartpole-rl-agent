@@ -6,7 +6,7 @@ This repository implements a Deep Q-Network (DQN) agent trained to solve the cla
 
 ## 🧠 Key Features
 
-* ✅ **Dueling Deep Q-Network** with ELU activations and separate value/advantage streams
+* ✅ **Double Deep Q-Network** with ELU activations
 * 🎯 **Prioritized Experience Replay (PER)** with dynamic TD-error updates
 * 📈 **Custom reward shaping** based on pole angle and corrective actions
 * 📉 **Live training tracking** with average rewards and model checkpointing
