@@ -1,4 +1,4 @@
-# 🏗️ CartPole DQN Agent
+# CartPole DQN Agent
 
 This repository implements a Deep Q-Network (DQN) agent trained to solve the classic CartPole balancing task from OpenAI Gym. It includes reward shaping, prioritized experience replay, and evaluation scripts to monitor model progress and generalization.
 
