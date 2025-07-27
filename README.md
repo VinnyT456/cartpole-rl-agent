@@ -18,7 +18,7 @@ This repository implements a Deep Q-Network (DQN) agent trained to solve the cla
 
 ```
 📁 CartPole-DQN-Agent
-├── q_network.py        # Dueling DQN model definition
+├── model.py            # DQN model definition
 ├── train.py            # Training loop and experience replay logic
 ├── test.py             # Offline testing over 1000 episodes
 ├── best_cartpole_model.pth # Best model checkpoint
